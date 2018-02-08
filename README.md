@@ -1,0 +1,9 @@
+# algorithm_Cpp
+I used C++ and wrote them 1 year ago... 
+maybe it will help some guys, who knows? 
+It contains some algorithm, such as sort, graph, find, etc... 
+The ide is VS2017 x64 community
+
+If you find something wrong, please tell me...
+If nobody download, eh...eh.. maybe it won't happen?
+If it do happen, I will be so embarrassed... hahaha :)
